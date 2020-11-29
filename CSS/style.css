@@ -1,0 +1,52 @@
+.description{
+    top: 100px;
+    font-size: 32px;
+}
+
+.link1{
+    font-size: 20px;
+}
+
+.link2{
+    font-size: 20px;
+}
+
+.value{
+    position: relative;
+    top: 120px;
+}
+
+button{
+    width: 300px;
+}
+
+.installerDescription{
+    font-size: 22px;
+}
+
+.number{
+    font-size: 18px;
+    bottom: 60px;
+}
+
+.Copyright{
+    font-size: 22px;
+}
+
+.About{
+    font-size: 22px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.contact{
+    font-size: 22px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.copyrightText{
+    margin-top: 50px;
+}
+
+    
